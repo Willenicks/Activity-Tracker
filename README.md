@@ -8,7 +8,7 @@
 Will Enicks <br />
 Microsoft Systems and Software Academy <br />
 Cloud Applications Developer Cohort 3 <br />
-14 JAN 2021
+January 14, 2021
 
 --- 
 #### Indroduction
