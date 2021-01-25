@@ -9,6 +9,7 @@ Will Enicks
 14 JAN 2021
 
 --- 
+#### Indroduction
 
 Here in Colorado there are a million activities to do outdoors. My favorites are running, biking, and hiking all over the state, and that is just during the summer. Winter can be a great time to get outdoors as well, with snowshoeing, cross-country skiing, fat tire biking, and downhill skiing to name a few.
 
