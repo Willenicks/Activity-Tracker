@@ -5,12 +5,9 @@
 
 
 
-Will Enicks
-
-Microsoft Systems and Software Academy
-
-Cloud Applications Developer Cohort 3
-
+Will Enicks <br />
+Microsoft Systems and Software Academy <br />
+Cloud Applications Developer Cohort 3 <br />
 14 JAN 2021
 
 --- 
