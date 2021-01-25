@@ -1,19 +1,16 @@
 # Activity Tracker
-## Track all of your runs, hikes and other outdoor activity / This is my 18 week MSSA project
+### Track all of your runs, hikes and other outdoor activity / This is my 18 week ASP.NET MVC Core Web Application for MSSA 
 
-
+---
 
 
 
 Will Enicks
 14 JAN 2021
 
-Project Step 2
-Project Selection
-https://github.com/Willenicks/Activity-Tracker
+--- 
 
-
-1.	Activity tracker
+## Activity tracker
 
 Here in Colorado there are a million activities to do outdoors. My favorites are running, biking, and hiking all over the state, and that is just during the summer. Winter can be a great time to get outdoors as well, with snowshoeing, cross-country skiing, fat tire biking, and downhill skiing to name a few.
 
