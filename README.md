@@ -10,8 +10,6 @@ Will Enicks
 
 --- 
 
-## Activity tracker
-
 Here in Colorado there are a million activities to do outdoors. My favorites are running, biking, and hiking all over the state, and that is just during the summer. Winter can be a great time to get outdoors as well, with snowshoeing, cross-country skiing, fat tire biking, and downhill skiing to name a few.
 
 This Application would be able to log all of your activity regardless of type. Once a user has logged in and created their profile, they would be able to manually enter data about that day’s activity. This application would enable the user to record:
