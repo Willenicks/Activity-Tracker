@@ -22,15 +22,25 @@ This Application would be able to log all of your activity regardless of type. O
 
 
 •	The type of activity, selected from a preselected list, or input a new type of activity 
+
 •	The date and time of the activity 
+
 •	The time it took to complete the activity
+
 •	The distance covered
+
 •	The weather data
+
 •	The difficulty ( beginner, intermediate, advanced, expert only)
+
 •	Elevation covered
+
 •	The average and top speed during the activity
+
 •	Average heart rate
+
 •	Conditions 
+
 •	Additional data and pictures to remember the activity
 
 Additionally, users will be able to customize their profile with a profile image or emoji, all with an active email account, once verified. 
