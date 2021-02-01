@@ -50,6 +50,6 @@ https://www.alltrails.com/
 https://www.mtbproject.com/trail/7032229/rei-mountain-bike-test-trail 
 
 ---
-[Database Diagram] (Activity_Tracker_DB.pdf)
+[Database Diagram] (ActivityTrackerDB.pdf)
 
 ![github image](https://opensheetmusicdisplay.org/wp-content/uploads/2020/08/pinpng.com-github-logo-png-945585.png)
