@@ -41,6 +41,8 @@ All users’ profiles will be private unless they share a url associated with th
 
 Additionally, I would want users to create groups, chaired by one administrator who can be responsible for adding and removing members from the group. This way running, biking and other clubs can record their activities or plan future activities for their members. That way they could post meet up times, directions, and a synopsis of the route prior to people showing up and after the fact it would be entered into their activity log. 
 
+[Database Diagram](Activity_Tracker_DB.pdf)
+
 There are a couple of sites similar to this and they are listed below:
 
 https://www.mapmyrun.com/us/
@@ -48,7 +50,5 @@ https://www.mapmyrun.com/us/
 https://www.alltrails.com/ 
 
 https://www.mtbproject.com/trail/7032229/rei-mountain-bike-test-trail 
-
-[Database Diagram](Activity_Tracker_DB.pdf)
 
 ![github image](https://opensheetmusicdisplay.org/wp-content/uploads/2020/08/pinpng.com-github-logo-png-945585.png)
