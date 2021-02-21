@@ -41,7 +41,7 @@ All users’ profiles will be private unless they share a url associated with th
 
 Additionally, I would want users to create groups, chaired by one administrator who can be responsible for adding and removing members from the group. This way running, biking and other clubs can record their activities or plan future activities for their members. That way they could post meet up times, directions, and a synopsis of the route prior to people showing up and after the fact it would be entered into their activity log. 
 
-[Database Diagram] (Activity Tracker DB.pdf)
+[Database Diagram](Activity Tracker DB.pdf)
 
 There are a couple of sites similar to this and they are listed below:
 
